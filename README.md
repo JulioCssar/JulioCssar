@@ -7,7 +7,7 @@
  
 - 👯 Faço parte da Programadores do amanhã
  
-- 💬 Gosto muito de conversar e fazer amizades
+- 💬 Trabalho bem em equipe 
  
 - 😄 Não sou tão ativo por aqui, mas estou vivo!
  
