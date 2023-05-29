@@ -42,8 +42,5 @@
 <a href="https://www.linkedin.com/in/júlio-césar-dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JulioCssar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/julioo.cpx/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-julioo.cpx-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 </p>
 
