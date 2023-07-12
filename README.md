@@ -3,15 +3,15 @@
 
 - 🔭 Atualmente estou Estudando para ser um desenvolvedor Full Stack
 
-- 🌱 Atualmente estou aprendendo Python e JavaScript 
+- 🌱 Estou aprendendo Python e JavaScript 
  
-- 👯 Faço parte da Programadores do amanhã
+- 👯 Também estou em busca da primeira oportunidade na programação
  
-- 💬 Trabalho bem em equipe 
+- 💬 Gosto de trabalhar em equipe e em conjunto
  
 - 😄 Não sou tão ativo por aqui, mas estou vivo!
  
-- ⚡ Gosto muito de ouvir música, assistir, conversar sobre qualquer coisa e por ai vai :)
+- ⚡ Gosto muito de ouvir música, assistir e tudo que envolva tecnologia.
 
 
 
