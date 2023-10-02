@@ -1,17 +1,17 @@
 <h1 align="left">Olá Mundo, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Me chamo Júlio!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JulioCssar&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Atualmente estou Estudando para ser um desenvolvedor Full Stack
+- 🔭 Atualmente estou estudando para ingressar no mercado da programação
 
-- 🌱 Estou aprendendo Python e JavaScript 
+- 🌱 Conheço um pouco de Python e JavaScript
  
-- 👯 Também estou em busca da primeira oportunidade na programação
+- 👯 Estou em busca da primeira oportunidade 
  
 - 💬 Gosto de trabalhar em equipe e em conjunto
  
 - 😄 Não sou tão ativo por aqui, mas estou vivo!
  
-- ⚡ Gosto muito de ouvir música, assistir e tudo que envolva tecnologia.
+- ⚡ Gosto muito de tudo que envolva tecnologia
 
 
 
